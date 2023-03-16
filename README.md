@@ -2,9 +2,9 @@
 
 Esse é um guia simples do README e deve ser customizado pelo estudante
 
-**Nome: (Seu nome)** 
+**Nome: (Matheus de Deus Lima)** 
 
-**Turma: (Sua Turma)**
+**Turma: (2TDSPI)**
 
 **Ano: 2023**
 
